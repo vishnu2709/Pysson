@@ -1,0 +1,12 @@
+[project]
+name = "Pysson"
+version = "0.0.1"
+authors = [
+  { name="Vishnu Raghuraman", email="vishnu.raman@gmail.com" },
+]
+description = "Poisson solver based on finite difference method."
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
